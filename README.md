@@ -19,4 +19,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
