@@ -2,9 +2,9 @@ class Solution {
   // Similar to 253. Meeting Rooms II
   public int minGroups(int[][] intervals) {
     // Stores `right`s.
-    Queue<Integer> minHeap = new PriorityQueue<>((b, a) -> Integer.compare(b, a));
+    Queue<Integer> minHeap = new PriorityQueue<>((a, b) -> Integer.compare(a, b));
 
-    Arrays.sort(intervals, (b, a) -> Integer.compare(b[0], a[0]));
+    Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
 
     for (int[] interval : intervals) {
       // There's no overlap, so we can reuse the same group.
