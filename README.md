@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0670-maximum-swap](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0670-maximum-swap) |
 | [1304-longest-happy-string](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1304-longest-happy-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -64,4 +65,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
+## Math
+|  |
+| ------- |
+| [0670-maximum-swap](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0670-maximum-swap) |
 <!---LeetCode Topics End-->
