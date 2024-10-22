@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0136-single-number) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0136-single-number) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
 |  |
