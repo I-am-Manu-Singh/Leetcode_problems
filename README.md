@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1304-longest-happy-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -145,4 +146,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
