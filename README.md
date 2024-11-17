@@ -187,4 +187,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
