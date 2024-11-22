@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0136-single-number) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1940-maximum-xor-for-each-query](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1940-maximum-xor-for-each-query) |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0141-linked-list-cycle) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -174,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## String Matching
