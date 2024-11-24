@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0141-linked-list-cycle) |
+| [1972-rotating-the-box](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1940-maximum-xor-for-each-query](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1940-maximum-xor-for-each-query) |
+| [1972-rotating-the-box](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1972-rotating-the-box) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2089-maximum-matrix-sum](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2089-maximum-matrix-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -182,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1972-rotating-the-box](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
