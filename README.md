@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0069-sqrtx) |
 | [0670-maximum-swap](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0670-maximum-swap) |
 ## Backtracking
 |  |
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0069-sqrtx) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2586-longest-square-streak-in-an-array](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2586-longest-square-streak-in-an-array) |
