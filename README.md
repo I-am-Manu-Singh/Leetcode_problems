@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0013-roman-to-integer](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0670-maximum-swap](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0670-maximum-swap) |
 ## Backtracking
 |  |
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0119-pascals-triangle-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -233,4 +235,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
