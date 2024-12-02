@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0141-linked-list-cycle) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1972-rotating-the-box](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1302-delete-characters-to-make-fancy-string](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2580-circular-sentence](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2580-circular-sentence) |
@@ -216,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0812-rotate-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Trie
 |  |
 | ------- |
