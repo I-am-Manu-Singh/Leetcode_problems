@@ -1,26 +1,21 @@
 class Solution {
-    public boolean canMakeSubsequence(String str1, String str2) {
+        public boolean canMakeSubsequence(String str1, String str2) {
+                int index1 = 0;
+                int index2 = 0;
+                int n = str1.length();
+                int m = str2.length();
 
-        char[] ch1 = str1.toCharArray();
-        char[] ch2 = str2.toCharArray();
-        int i=0,j=0;
-        while(i<ch1.length && j<ch2.length){
-            if(ch1[i]=='z' && ch2[j]=='a'){
-                i++;
-                j++;
-            }else if(ch1[i]==ch2[j]){
-                i++;
-                j++;
-            }else if((ch2[j]-ch1[i]) == 1){
-                i++;
-                j++;
-            }else{
-                i++;
-            }
+                if(m > n){
+                    return false;
+                }
+
+                while(index2 < m && index1 < n) {
+                    if(str1.charAt(index1) == str2.charAt(index2) || (str1.charAt(index1) == str2.charAt(index2)-1) || 
+                    (str1.charAt(index1) == 'z' && str2.charAt(index2) == 'a')){
+                    index2++;
+                }
+                index1++;
         }
-        if(j == ch2.length){
-            return true;
-        }
-        return false;
+        return (index2 == m);
     }
 }
