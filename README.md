@@ -1,5 +1,8 @@
 # Leetcode_problems
 Collection of LeetCode questions to ace the coding interview!
+
+[View stats.json](./Leetcode_problems/stats.json)
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Two Pointers
