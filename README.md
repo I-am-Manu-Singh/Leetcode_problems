@@ -1,7 +1,7 @@
 # Leetcode_problems
 Collection of LeetCode questions to ace the coding interview!
 
-[View stats.json](./Leetcode_problems/stats.json)
+[View stats.json](./stats.json)
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
