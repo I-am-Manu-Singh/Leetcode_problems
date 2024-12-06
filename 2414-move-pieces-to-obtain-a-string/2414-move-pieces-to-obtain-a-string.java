@@ -15,9 +15,9 @@ class Solution {
 
             if(start.charAt(first) != target.charAt(second))
             return false;
-            if(start.charAt(first) == 'L' & first < second)  
+            if(start.charAt(first) == 'L' && first < second)  
             return false;
-            if(start.charAt(first) == 'R' & first > second)
+            if(start.charAt(first) == 'R' && first > second)
             return false;   
                     
             first++;
