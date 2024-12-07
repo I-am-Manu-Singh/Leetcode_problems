@@ -1,30 +1,20 @@
 class Solution {
     public int maxCount(int[] banned, int n, int maxSum) {
-        // Create a set to store banned numbers for O(1) look-up
-        Set<Integer> set = new HashSet<>();
-        for (int x : banned) {
-            set.add(x); // Add each banned number to the set
+        
+        Set<Integer> bannedSet = new HashSet<>();
+        for(int num  : banned) {
+            bannedSet.add(num);
         }
-
-        int csum = 0; // Current sum of selected numbers
-        int counter = 0; // Count of selected numbers
-
-        // Iterate through numbers from 1 to n
-        for (int i = 1; i <= n; i++) {
-            // Skip the number if it is in the banned set
-            if (set.contains(i)) continue;
-
-            // Check if adding the current number exceeds maxSum
-            if (csum + i > maxSum) {
-                return counter; // Return the count if maxSum is exceeded
+            int count = 0, sum = 0;
+            for(int i = 1; i <= n; i++ ){
+                if(!bannedSet.contains(i)) {
+                sum += i;
+                if(sum > maxSum) {
+                    break;
             }
-
-            // Add the current number to the sum and increment the count
-            csum += i;
-            counter++;
+            count++;
+            } 
         }
-
-        // Return the total count of numbers that can be selected
-        return counter;
+        return count;
     }
 }
