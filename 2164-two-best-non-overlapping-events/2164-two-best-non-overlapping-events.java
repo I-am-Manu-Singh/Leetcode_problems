@@ -1,40 +1,23 @@
 class Solution {
-	public int maxTwoEvents(int[][] events) {
-		int n = events.length;
-		int[][] start = new int[n][];
-		int[][] end = new int[n][];
-		for (int i = 0; i < n; i++) {
-			start[i] = new int[]{events[i][0], events[i][2]};
-			end[i] = new int[]{events[i][1], events[i][2]};
-		}
+    public int maxTwoEvents(int[][] events) {
+        
+        //sort on end
+        PriorityQueue<int[]> pq = new PriorityQueue<>((a,b) -> a[1] - b[1]);
+        //sort on starting
+        Arrays.sort(events, (a,b) -> a[0] - b[0]);
+        int prevMax = 0;
+        int res = 0;
 
-		Comparator<int[]> cp = new Comparator<int[]>() {
-			@Override
-			public int compare(int[] o1, int[] o2) {
-				return o1[0] - o2[0];
-			}
-		};
+        for(int event[] : events) {
+            while(!pq.isEmpty() && pq.peek()[1] < event[0]){
+                prevMax = Math.max(prevMax, pq.peek()[2]);
+                pq.poll();
 
-		Arrays.sort(start, cp);
-		Arrays.sort(end, cp);
+            }
 
-		int ans = 0;
-		int j = 0;
-		int max = 0;
-		for (int i = 0; i < n; i++) {
-			while (j < n && end[j][0] < start[i][0]) {
-				if (max < end[j][1]) {
-					max = end[j][1];
-				}
-				j++;
-			}
-
-			int s = start[i][1] + max;
-			if (ans < s) {
-				ans = s;
-			}
-		}
-
-		return ans;
-	}
+            res = Math.max(res, prevMax + event[2]);
+            pq.offer(event);
+        }
+    return res;
+    }
 }
