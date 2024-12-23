@@ -220,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Search Tree
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Dynamic Programming
@@ -258,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
