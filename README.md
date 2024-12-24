@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1304-longest-happy-string](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2232-adding-spaces-to-a-string) |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0067-add-binary) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -327,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0021-merge-two-sorted-lists) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Graph
 |  |
 | ------- |
