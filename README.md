@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2716-prime-subtraction-operation](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2716-prime-subtraction-operation) |
 ## Array
 |  |
 | ------- |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2692-take-gifts-from-the-richest-pile](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2716-prime-subtraction-operation](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -190,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0069-sqrtx](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0670-maximum-swap](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0670-maximum-swap) |
+| [2716-prime-subtraction-operation](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Backtracking
 |  |
@@ -235,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2586-longest-square-streak-in-an-array](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2716-prime-subtraction-operation](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2716-prime-subtraction-operation) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/3427-special-array-ii) |
@@ -343,4 +347,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
