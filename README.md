@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0058-length-of-last-word](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0067-add-binary) |
 | [0812-rotate-string](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0812-rotate-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0780-max-chunks-to-make-sorted) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -60,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0670-maximum-swap](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0670-maximum-swap) |
 | [0780-max-chunks-to-make-sorted](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0780-max-chunks-to-make-sorted) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1304-longest-happy-string) |
 | [1917-maximum-average-pass-ratio](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2089-maximum-matrix-sum) |
