@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0141-linked-list-cycle) |
+| [0283-move-zeroes](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0283-move-zeroes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1972-rotating-the-box](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1972-rotating-the-box) |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0118-pascals-triangle](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0136-single-number) |
+| [0283-move-zeroes](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0283-move-zeroes) |
 | [0494-target-sum](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0494-target-sum) |
 | [0780-max-chunks-to-make-sorted](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [1063-best-sightseeing-pair](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1063-best-sightseeing-pair) |
