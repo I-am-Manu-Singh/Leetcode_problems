@@ -8,9 +8,9 @@ class Solution {
             return word;
         }
         while(left<right){
-               char cx=a[right];
-               a[right]=a[left];
-               a[left]=cx;
+               char cx=a[left];
+               a[left]=a[right];
+               a[right]=cx;
                left++;
                right--;
         }
