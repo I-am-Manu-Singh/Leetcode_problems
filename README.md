@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1972-rotating-the-box](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2128-reverse-prefix-of-word](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2128-reverse-prefix-of-word) |
 | [2232-adding-spaces-to-a-string](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2128-reverse-prefix-of-word](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2128-reverse-prefix-of-word) |
 | [2232-adding-spaces-to-a-string](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -63,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1078-remove-outermost-parentheses](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1078-remove-outermost-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2128-reverse-prefix-of-word](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2128-reverse-prefix-of-word) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Greedy
 |  |
