@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0225-implement-stack-using-queues) |
 | [0780-max-chunks-to-make-sorted](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -352,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0225-implement-stack-using-queues) |
 | [2868-continuous-subarrays](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2868-continuous-subarrays) |
 ## Ordered Set
 |  |
@@ -370,4 +372,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2716-prime-subtraction-operation) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
