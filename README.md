@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0225-implement-stack-using-queues) |
 | [0780-max-chunks-to-make-sorted](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -245,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -271,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -299,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2677-cousins-in-binary-tree-ii) |
