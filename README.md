@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/3291-find-if-array-can-be-sorted) |
 ## Prefix Sum
 |  |
@@ -470,4 +472,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0820-find-eventual-safe-states) |
+## Union Find
+|  |
+| ------- |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
