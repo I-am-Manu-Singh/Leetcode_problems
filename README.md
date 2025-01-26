@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0141-linked-list-cycle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -404,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1755-defuse-the-bomb](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
