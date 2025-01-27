@@ -24,7 +24,7 @@ class Solution {
 
     boolean checkIfPre(List<ArrayList<Integer>> list, int x, int y, int vis[]){
 
-        vis[x] = 3;
+        vis[x] = 1;
         for(int i = 0; i < list.get(x).size(); i++){
 
             if(list.get(x).get(i) == y)
