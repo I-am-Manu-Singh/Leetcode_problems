@@ -349,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1558-course-schedule-iv) |
@@ -365,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0684-redundant-connection](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0820-find-eventual-safe-states) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1396-count-servers-that-communicate) |
@@ -437,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1558-course-schedule-iv) |
 | [3189-find-champion-ii](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/3189-find-champion-ii) |
@@ -491,6 +494,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
