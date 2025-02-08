@@ -195,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2434-design-a-number-container-system](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2434-design-a-number-container-system) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2586-longest-square-streak-in-an-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2164-two-best-non-overlapping-events](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2300-construct-string-with-repeat-limit) |
+| [2434-design-a-number-container-system](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2434-design-a-number-container-system) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -469,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Ordered Set
 |  |
 | ------- |
+| [2434-design-a-number-container-system](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
 |  |
@@ -487,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0225-implement-stack-using-queues) |
+| [2434-design-a-number-container-system](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2434-design-a-number-container-system) |
 ## Rolling Hash
 |  |
 | ------- |
