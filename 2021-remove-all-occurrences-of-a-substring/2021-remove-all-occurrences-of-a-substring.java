@@ -12,9 +12,8 @@ class Solution {
                 if(s.substring(i, i + partLength).equals(part)) {
                     partIndex = i;
                     break;
-                    }
-                }
-            
+                }  
+            }
             if(partIndex != null) {
                 String str = "";
                 if(partIndex > 0) {
