@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3195-separate-black-and-white-balls](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/3195-separate-black-and-white-balls) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3447-clear-digits](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/3451-string-compression-iii) |
 ## Stack
 |  |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2128-reverse-prefix-of-word](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2128-reverse-prefix-of-word) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3447-clear-digits](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/3447-clear-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -265,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Math
 |  |
