@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1396-count-servers-that-communicate](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1477-product-of-the-last-k-numbers](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-string-matching-in-an-array](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1755-defuse-the-bomb](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1755-defuse-the-bomb) |
@@ -254,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1940-maximum-xor-for-each-query) |
@@ -289,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0069-sqrtx](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0670-maximum-swap](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0670-maximum-swap) |
+| [1477-product-of-the-last-k-numbers](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -507,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0225-implement-stack-using-queues) |
+| [1477-product-of-the-last-k-numbers](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2434-design-a-number-container-system) |
 ## Rolling Hash
 |  |
@@ -532,4 +536,8 @@ Collection of LeetCode questions to ace the coding interview!
 | [1396-count-servers-that-communicate](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
