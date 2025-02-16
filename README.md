@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1524-string-matching-in-an-array](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1755-defuse-the-bomb](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1755-defuse-the-bomb) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1876-map-of-highest-peak](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -300,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0494-target-sum](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
