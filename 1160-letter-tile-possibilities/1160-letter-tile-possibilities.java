@@ -1,40 +1,22 @@
-public class Solution
-{
-    // Step 1: Backtracking function
-    public static int backtrack(HashMap<Character, Integer> freqMap)
-    {
-        int count = 0;
-
-        // Step 2: Iterate through each character in the frequency map
-        for (char ch : freqMap.keySet())
-        {
-            if (freqMap.get(ch) > 0)
-            {
-                // Step 3: Pick a letter
-                freqMap.put(ch, freqMap.get(ch) - 1); // Reduce the frequency
-                
-                count += 1 + backtrack(freqMap); // Recursive call
-                
-                // Step 4: Backtrack (restore count)
-                freqMap.put(ch, freqMap.get(ch) + 1);
-            }
-        }
-
-        return count;
+class Solution {
+    int len;
+    public int numTilePossibilities(String tiles) {
+        len = tiles.length();
+        boolean used[] = new boolean[len];
+        HashSet<String> set = new HashSet<>();
+        backtrack(tiles, used, set , " ");
+        return set.size() - 1;
     }
 
-    // Step 5: Main function to compute tile possibilities
-    public static int numTilePossibilities(String tiles)
-    {
-        HashMap<Character, Integer> freqMap = new HashMap<>();
+    public void backtrack(String tiles, boolean used[], HashSet<String> set, String curr) {
+        if(set.contains(curr)) return;
+        set.add(curr);
 
-        // Step 6: Build frequency map
-        for (char ch : tiles.toCharArray())
-        {
-            freqMap.put(ch, freqMap.getOrDefault(ch, 0) + 1);
+        for(int i = 0; i < len; i++) {
+            if(used[i]) continue;
+            used[i] = true;
+            backtrack(tiles, used, set, curr + tiles.charAt(i));
+            used[i] = false;
         }
-
-        // Step 7: Call backtracking function
-        return backtrack(freqMap);
     }
 }
