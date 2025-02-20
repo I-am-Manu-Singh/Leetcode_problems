@@ -1,37 +1,33 @@
 class Solution {
     public int[] constructDistancedSequence(int n) {
-        int[] res=new int[2*n-1];
-        boolean[] used=new boolean[n+1];
-        print(res,0,used);
-        return res;
+        boolean used[] = new boolean[n + 1];
+        int seq[] = new int[2*n-1];
+        backtrack(0, used, seq, n);
+        return seq;
     }
-    public static boolean print(int[] res,int idx,boolean[] used){
-        while(idx<res.length && res[idx]!=0){
-            idx++;
-        }
-        if(idx==res.length){
-            return true;
-        }
-        for(int i=used.length-1;i>=1;i--){
-            if(used[i]==false && i==1 && res[idx]==0){
-                used[i]=true;
-                res[idx]=i;
-                if(print(res,idx+1,used)){
-                    return true;
-                }
-                used[i]=false;
-                res[idx]=0;
-            } 
-            else if(used[i]==false && idx+i<res.length && res[idx+i]==0){
-                used[i]=true;
-                res[idx]=i;
-                res[idx+i]=i;
-                if(print(res,idx+1,used)){
-                    return true;
-                }
-                used[i]=false;
-                res[idx]=0;
-                res[idx+i]=0;
+
+    public boolean backtrack(int index, boolean  used[], int seq[], int n) {
+        while(index < seq.length && seq[index] != 0) index++;
+        if(index == seq.length) return true;
+        for(int i = n; i >= 1; i--){
+            if(used[i]) continue;
+            if(i == 1) {
+                seq[index] = i;
+                used[i] = true;
+                if(backtrack(index + 1, used, seq, n)) return true;
+                //no seq
+                seq[index] = 0;
+                used[i] = false;
+            }
+            else if(index + i < seq.length && seq[index + i] == 0){
+                seq[index] = i;
+                seq[index + i] = i;
+                used[i] = true;
+                if(backtrack(index+1, used, seq, n)) return true;
+                //cant find seq
+                seq[index] = 0;
+                seq[index + i] = 0;
+                used[i] = false;
             }
         }
         return false;
