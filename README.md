@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -339,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -367,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -390,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0684-redundant-connection](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0820-find-eventual-safe-states) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1876-map-of-highest-peak) |
@@ -408,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0684-redundant-connection](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0820-find-eventual-safe-states) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1558-course-schedule-iv) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -518,6 +523,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0225-implement-stack-using-queues) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2434-design-a-number-container-system) |
 ## Rolling Hash
