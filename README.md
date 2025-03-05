@@ -311,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0670-maximum-swap](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0670-maximum-swap) |
 | [1477-product-of-the-last-k-numbers](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1477-product-of-the-last-k-numbers) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2448-count-number-of-bad-pairs](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
