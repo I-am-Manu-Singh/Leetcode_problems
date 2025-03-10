@@ -1,25 +1,19 @@
 class Solution {
     public int numberOfAlternatingGroups(int[] colors, int k) {
+        int res = 0;
+        int left = 0;
         int n = colors.length;
-        int count = 0;
-        int validSize = 1; 
 
-        for (int i = 1; i < n + k - 1; i++) 
-        {
-            if (colors[i % n] != colors[(i - 1) % n]) 
-            {
-                validSize++; 
-                if (validSize >= k) 
-                {
-                    count++; 
-                }
-            } 
-            else 
-            {
-                validSize = 1; 
+        for(int right = 1; right <(n+k-1); right++) {
+            if(colors[right%n] == colors[(right-1)%n]){
+                left = right;
+            }
+
+            if(right - left + 1 == k) {
+                res++;
+                left++;
             }
         }
-
-        return count;
+        return res;
     }
 }
