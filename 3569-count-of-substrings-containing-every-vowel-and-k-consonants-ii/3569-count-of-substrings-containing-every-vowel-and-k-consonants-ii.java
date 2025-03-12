@@ -1,6 +1,6 @@
 class Solution {
     public long countOfSubstrings(String word, int k) {
-       return atLeastOneConsonant(k, word - atLeast(k + 1, word)); 
+       return atLeastOneConsonant(k, word - atLeastOneConsonant(k + 1, word)); 
     }
 
     public boolean isConsonant(char ch) {
