@@ -1,35 +1,51 @@
-import java.util.*;
-
 class Solution {
-    public List<String> findAllRecipes(String[] recipes, List<List<String>> ingredients, String[] supplies) {
-        Map<String, List<String>> graph = new HashMap<>(); // ingredient -> list of recipes
-        Map<String, Integer> indegree = new HashMap<>();   // recipe -> count of needed ingredients
-        Set<String> available = new HashSet<>(Arrays.asList(supplies));
+ public List<String> findAllRecipes(
+        String[] recipes,
+        List<List<String>> ingredients,
+        String[] supplies
+    ) {
+        int n = recipes.length;  // number of recipes
         List<String> result = new ArrayList<>();
 
-        // Step 1: Build graph and indegree map
-        for (int i = 0; i < recipes.length; i++) {
-            String recipe = recipes[i];
-            indegree.put(recipe, ingredients.get(i).size());
+        // Initialize the set of available supplies
+        Set<String> st = new HashSet<>(Arrays.asList(supplies));
 
-            for (String ing : ingredients.get(i)) {
-                graph.computeIfAbsent(ing, k -> new ArrayList<>()).add(recipe);
-            }
-        }
+        // Cooked recipes tracker
+        boolean[] cooked = new boolean[n];
 
-        // Step 2: Perform BFS
-        Queue<String> queue = new LinkedList<>(available);
+        int count = n;
 
-        while (!queue.isEmpty()) {
-            String item = queue.poll();
-            if (!graph.containsKey(item)) continue;
+        // Keep trying to cook recipes until no more can be cooked
+        while (count > 0) {
+            int prevCount = count;  // track changes to break loop if stuck
 
-            for (String recipe : graph.get(item)) {
-                indegree.put(recipe, indegree.get(recipe) - 1);
-                if (indegree.get(recipe) == 0) {
-                    result.add(recipe);
-                    queue.add(recipe);
+            for (int j = 0; j < n; j++) {
+                if (cooked[j]) {
+                    continue;  // already cooked
                 }
+
+                boolean canCook = true;
+
+                // Check if all ingredients are available
+                for (String ingredient : ingredients.get(j)) {
+                    if (!st.contains(ingredient)) {
+                        canCook = false;
+                        break;
+                    }
+                }
+
+                if (canCook) {
+                    // Mark recipe as cooked
+                    st.add(recipes[j]);
+                    result.add(recipes[j]);
+                    cooked[j] = true;
+                    count--;  // cooked one more recipe
+                }
+            }
+
+            // If no recipe was cooked in this iteration, break (avoids infinite loop)
+            if (prevCount == count) {
+                break;
             }
         }
 
