@@ -3,8 +3,10 @@ class Solution {
         int n = recipes.length;
         List<String> result = new ArrayList<>();
         Set<String> st = new HashSet<>(Arrays.asList(supplies));
+
         boolean[] cooked = new boolean[n];
         int count = n;
+
         while(count > 0) {
             int prevCount = count;
             for(int j = 0; j < n; j++) {
@@ -12,13 +14,12 @@ class Solution {
                     continue;
                 }
                 boolean canCook = true;
-                for(String ingrediant:ingredients.get(j)){
-                    if(!st.contains(ingrediant)){
+                for(String ingredient : ingredients.get(j)){
+                    if(!st.contains(ingredient)){
                         canCook = false;
                         break;
                     }
                 }
-
                 if(canCook) {
                     st.add(recipes[j]);
                     result.add(recipes[j]);
@@ -27,7 +28,7 @@ class Solution {
                 }
             }
 
-            if(prevCount == count) {
+            if(prevCount == count){
                 break;
             }
         }
