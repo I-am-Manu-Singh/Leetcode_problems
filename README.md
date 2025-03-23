@@ -447,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2793-count-the-number-of-complete-components) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Depth-First Search
 |  |
@@ -464,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2564-most-profitable-path-in-a-tree](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2793-count-the-number-of-complete-components) |
 ## Matrix
 |  |
 | ------- |
@@ -545,6 +547,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1558-course-schedule-iv](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1558-course-schedule-iv) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2793-count-the-number-of-complete-components) |
 | [3189-find-champion-ii](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Memoization
@@ -607,6 +610,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0684-redundant-connection](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2793-count-the-number-of-complete-components) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Data Stream
 |  |
