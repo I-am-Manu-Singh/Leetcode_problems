@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0283-move-zeroes) |
+| [0768-partition-labels](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0768-partition-labels) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1972-rotating-the-box](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1972-rotating-the-box) |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0067-add-binary) |
+| [0768-partition-labels](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1078-remove-outermost-parentheses) |
@@ -100,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0670-maximum-swap) |
+| [0768-partition-labels](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1304-longest-happy-string) |
@@ -216,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0141-linked-list-cycle) |
+| [0768-partition-labels](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
