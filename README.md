@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1927-maximum-ascending-subarray-sum](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1972-rotating-the-box) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2089-maximum-matrix-sum](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2145-grid-game) |
@@ -335,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0670-maximum-swap](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0670-maximum-swap) |
 | [1477-product-of-the-last-k-numbers](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2448-count-number-of-bad-pairs](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2649-count-total-number-of-colored-cells) |
@@ -350,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Bit Manipulation
@@ -358,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0136-single-number) |
 | [1940-maximum-xor-for-each-query](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1940-maximum-xor-for-each-query) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -372,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Divide and Conquer
 |  |
@@ -623,4 +628,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1477-product-of-the-last-k-numbers) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
