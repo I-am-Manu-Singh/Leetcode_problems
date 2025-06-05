@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0768-partition-labels](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1078-remove-outermost-parentheses) |
 | [1160-letter-tile-possibilities](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1160-letter-tile-possibilities) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -622,6 +623,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/0684-redundant-connection) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/I-am-Manu-Singh/Leetcode_problems/tree/master/2793-count-the-number-of-complete-components) |
